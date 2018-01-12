@@ -1,0 +1,3 @@
+C:\Users\Oliver\Documents\RimWorld.v0.18.1722\Mods\MultiRim\Assemblies\MultiRim.dll
+C:\Users\Oliver\Documents\RimWorld.v0.18.1722\Mods\MultiRim\Source\MultiRim\obj\Debug\MultiRim.dll
+C:\Users\Oliver\Documents\RimWorld.v0.18.1722\Mods\MultiRim\Source\MultiRim\obj\Debug\MultiRim.csprojResolveAssemblyReference.cache
