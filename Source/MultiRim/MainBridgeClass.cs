@@ -82,7 +82,7 @@ namespace MultiRim
             }
         }
 
-        //Randalile ELI5 jutt
+        //Randalile ELI5 jutt, sama rida
 
         [HarmonyPatch(typeof(Selector), "SelectUnderMouse")]
         public static class OnSomethingSelected
